@@ -1,0 +1,2 @@
+# slots
+Simple Slot Machine
